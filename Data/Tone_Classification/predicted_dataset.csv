@@ -1,0 +1,2139 @@
+filename,native_language,country,native_speaker,Predicted,Actual
+afrikaans1,afrikaans,south africa,0,0,0
+afrikaans2,afrikaans,south africa,0,1,0
+afrikaans3,afrikaans,south africa,0,1,0
+afrikaans4,afrikaans,south africa,0,1,0
+afrikaans5,afrikaans,south africa,0,1,0
+agni1,agni,ivory coast,0,0,0
+akan1,akan,ghana,0,0,0
+albanian1,albanian,kosovo,0,0,0
+albanian2,albanian,albania,0,0,0
+albanian3,albanian,albania,0,0,0
+albanian4,albanian,kosovo,0,0,0
+albanian5,albanian,albania,0,0,0
+albanian6,albanian,kosovo,0,0,0
+albanian7,albanian,kosovo,0,0,0
+albanian8,albanian,kosovo,0,1,0
+albanian9,albanian,albania,0,0,0
+amazigh1,amazigh,morocco,0,0,0
+amazigh2,amazigh,morocco,0,0,0
+amharic1,amharic,ethiopia,0,0,0
+amharic10,amharic,ethiopia,0,0,0
+amharic11,amharic,ethiopia,0,0,0
+amharic12,amharic,ethiopia,0,0,0
+amharic13,amharic,ethiopia,0,0,0
+amharic14,amharic,ethiopia,0,0,0
+amharic15,amharic,ethiopia,0,0,0
+amharic16,amharic,ethiopia,0,0,0
+amharic17,amharic,ethiopia,0,0,0
+amharic18,amharic,ethiopia,0,1,0
+amharic19,amharic,ethiopia,0,1,0
+amharic2,amharic,ethiopia,0,0,0
+amharic20,amharic,ethiopia,0,0,0
+amharic3,amharic,ethiopia,0,0,0
+amharic4,amharic,ethiopia,0,0,0
+amharic5,amharic,ethiopia,0,0,0
+amharic6,amharic,ethiopia,0,0,0
+amharic7,amharic,ethiopia,0,0,0
+amharic8,amharic,ethiopia,0,0,0
+amharic9,amharic,ethiopia,0,0,0
+arabic1,arabic,saudi arabia,0,0,0
+arabic10,arabic,egypt,0,0,0
+arabic100,arabic,lebanon,0,0,0
+arabic101,arabic,qatar,0,0,0
+arabic102,arabic,saudi arabia,0,1,0
+arabic11,arabic,tunisia,0,0,0
+arabic12,arabic,iraq,0,0,0
+arabic13,arabic,lebanon,0,0,0
+arabic14,arabic,jordan,0,0,0
+arabic15,arabic,tunisia,0,0,0
+arabic16,arabic,morocco,0,0,0
+arabic17,arabic,morocco,0,0,0
+arabic18,arabic,kuwait,0,0,0
+arabic19,arabic,morocco,0,0,0
+arabic2,arabic,syria,0,0,0
+arabic20,arabic,lebanon,0,0,0
+arabic21,arabic,lebanon,0,0,0
+arabic22,arabic,united arab emirates,0,0,0
+arabic23,arabic,egypt,0,0,0
+arabic24,arabic,egypt,0,0,0
+arabic25,arabic,israel (occupied territory),0,0,0
+arabic26,arabic,jordan,0,0,0
+arabic27,arabic,israel,0,0,0
+arabic28,arabic,united arab emirates,0,0,0
+arabic29,arabic,qatar,0,0,0
+arabic3,arabic,qatar,0,0,0
+arabic30,arabic,saudi arabia,0,1,0
+arabic31,arabic,iraq,0,0,0
+arabic32,arabic,iraq,0,0,0
+arabic33,arabic,iraq,0,0,0
+arabic34,arabic,kuwait,0,1,0
+arabic35,arabic,saudi arabia,0,0,0
+arabic36,arabic,saudi arabia,0,0,0
+arabic37,arabic,saudi arabia,0,0,0
+arabic38,arabic,usa,0,0,0
+arabic39,arabic,saudi arabia,0,0,0
+arabic4,arabic,united arab emirates,0,0,0
+arabic40,arabic,saudi arabia,0,0,0
+arabic41,arabic,saudi arabia,0,0,0
+arabic42,arabic,saudi arabia,0,0,0
+arabic43,arabic,lebanon,0,0,0
+arabic44,arabic,saudi arabia,0,0,0
+arabic45,arabic,usa,0,0,0
+arabic46,arabic,saudi arabia,0,0,0
+arabic47,arabic,saudi arabia,0,0,0
+arabic48,arabic,saudi arabia,0,0,0
+arabic49,arabic,saudi arabia,0,0,0
+arabic5,arabic,morocco,0,0,0
+arabic50,arabic,saudi arabia,0,0,0
+arabic51,arabic,saudi arabia,0,0,0
+arabic52,arabic,saudi arabia,0,1,0
+arabic53,arabic,morocco,0,0,0
+arabic54,arabic,iraq,0,1,0
+arabic55,arabic,lebanon,0,0,0
+arabic56,arabic,algeria,0,0,0
+arabic57,arabic,lebanon,0,0,0
+arabic58,arabic,iraq,0,0,0
+arabic59,arabic,jordan,0,0,0
+arabic6,arabic,yemen,0,0,0
+arabic60,arabic,egypt,0,0,0
+arabic61,arabic,bahrain,0,1,0
+arabic62,arabic,saudi arabia,0,0,0
+arabic63,arabic,libya,0,0,0
+arabic64,arabic,saudi arabia,0,0,0
+arabic65,arabic,oman,0,0,0
+arabic66,arabic,saudi arabia,0,0,0
+arabic67,arabic,iraq,0,0,0
+arabic68,arabic,uk,0,0,0
+arabic69,arabic,sudan,0,0,0
+arabic7,arabic,morocco,0,0,0
+arabic70,arabic,morocco,0,0,0
+arabic71,arabic,kuwait,0,0,0
+arabic72,arabic,iraq,0,0,0
+arabic73,arabic,israel,0,0,0
+arabic74,arabic,egypt,0,0,0
+arabic75,arabic,saudi arabia,0,1,0
+arabic76,arabic,saudi arabia,0,0,0
+arabic77,arabic,saudi arabia,0,0,0
+arabic78,arabic,usa,0,1,0
+arabic79,arabic,saudi arabia,0,0,0
+arabic8,arabic,morocco,0,0,0
+arabic80,arabic,saudi arabia,0,0,0
+arabic81,arabic,saudi arabia,0,0,0
+arabic82,arabic,syria,0,0,0
+arabic83,arabic,saudi arabia,0,0,0
+arabic84,arabic,saudi arabia,0,0,0
+arabic85,arabic,saudi arabia,0,0,0
+arabic86,arabic,egypt,0,1,0
+arabic87,arabic,kuwait,0,0,0
+arabic88,arabic,lebanon,0,0,0
+arabic89,arabic,iraq,0,0,0
+arabic9,arabic,israel,0,0,0
+arabic90,arabic,libya,0,0,0
+arabic91,arabic,saudi arabia,0,0,0
+arabic92,arabic,iraq,0,0,0
+arabic93,arabic,iraq,0,0,0
+arabic94,arabic,united arab emirates,0,0,0
+arabic95,arabic,kuwait,0,0,0
+arabic96,arabic,saudi arabia,0,0,0
+arabic97,arabic,united arab emirates,0,0,0
+arabic98,arabic,united arab emirates,0,0,0
+arabic99,arabic,saudi arabia,0,0,0
+armenian1,armenian,armenia,0,0,0
+armenian2,armenian,iran,0,0,0
+armenian3,armenian,armenia,0,0,0
+armenian4,armenian,republic of georgia,0,0,0
+armenian5,armenian,armenia,0,0,0
+armenian6,armenian,russia,0,0,0
+armenian7,armenian,iran,0,0,0
+armenian8,armenian,armenia,0,0,0
+ashanti1,ashanti,ghana,0,0,0
+azerbaijani1,azerbaijani,azerbaijan,0,0,0
+azerbaijani2,azerbaijani,azerbaijan,0,0,0
+azerbaijani3,azerbaijani,azerbaijan,0,0,0
+bafang1,bafang,cameroon,0,0,0
+bafang2,bafang,cameroon,0,0,0
+baga1,baga,guinea,0,0,0
+bai1,bai,china,0,0,0
+bambara1,bambara,mali,0,0,0
+bambara2,bambara,mali,0,0,0
+bambara3,bambara,mali,0,0,0
+bambara4,bambara,senegal,0,0,0
+bambara5,bambara,mali,0,0,0
+bamun1,bamun,cameroon,0,0,0
+bari1,bari,sudan,0,0,0
+bari2,bari,sudan,0,0,0
+basque1,basque,spain,0,0,0
+basque2,basque,spain,0,0,0
+bavarian1,bavarian,germany,0,0,0
+bavarian2,bavarian,germany,0,0,0
+belarusan1,belarusan,belarus,0,0,0
+belarusan2,belarusan,belarus,0,0,0
+belarusan3,belarusan,belarus,0,0,0
+bengali1,bengali,bangladesh,0,0,0
+bengali10,bengali,bangladesh,0,0,0
+bengali11,bengali,india,0,0,0
+bengali12,bengali,bangladesh,0,0,0
+bengali13,bengali,bangladesh,0,0,0
+bengali14,bengali,india,0,0,0
+bengali15,bengali,bangladesh,0,0,0
+bengali16,bengali,bangladesh,0,0,0
+bengali17,bengali,bangladesh,0,1,0
+bengali2,bengali,zambia,0,1,0
+bengali3,bengali,bangladesh,0,0,0
+bengali4,bengali,bangladesh,0,0,0
+bengali5,bengali,bangladesh,0,0,0
+bengali6,bengali,india,0,1,0
+bengali7,bengali,bangladesh,0,0,0
+bengali8,bengali,bangladesh,0,0,0
+bengali9,bengali,india,0,0,0
+bosnian1,bosnian,bosnia and herzegovina,0,0,0
+bosnian2,bosnian,bosnia and herzegovina,0,0,0
+bosnian3,bosnian,bosnia and herzegovina,0,0,0
+bosnian4,bosnian,bosnia and herzegovina,0,0,0
+bosnian5,bosnian,bosnia and herzegovina,0,0,0
+bosnian6,bosnian,bosnia and herzegovina,0,0,0
+bosnian7,bosnian,bosnia and herzegovina,0,0,0
+bosnian8,bosnian,bosnia and herzegovina,0,0,0
+bosnian9,bosnian,bosnia and herzegovina,0,1,0
+bulgarian1,bulgarian,bulgaria,0,0,0
+bulgarian10,bulgarian,bulgaria,0,0,0
+bulgarian11,bulgarian,bulgaria,0,0,0
+bulgarian12,bulgarian,bulgaria,0,0,0
+bulgarian13,bulgarian,bulgaria,0,0,0
+bulgarian14,bulgarian,bulgaria,0,0,0
+bulgarian15,bulgarian,bulgaria,0,1,0
+bulgarian16,bulgarian,bulgaria,0,0,0
+bulgarian17,bulgarian,bulgaria,0,1,0
+bulgarian18,bulgarian,bulgaria,0,0,0
+bulgarian2,bulgarian,bulgaria,0,0,0
+bulgarian3,bulgarian,bulgaria,0,1,0
+bulgarian4,bulgarian,bulgaria,0,0,0
+bulgarian5,bulgarian,bulgaria,0,0,0
+bulgarian6,bulgarian,bulgaria,0,0,0
+bulgarian7,bulgarian,bulgaria,0,0,0
+bulgarian8,bulgarian,bulgaria,0,0,0
+bulgarian9,bulgarian,bulgaria,0,0,0
+burmese1,burmese,myanmar,0,0,0
+burmese2,burmese,myanmar,0,0,0
+cantonese1,cantonese,china,0,0,0
+cantonese10,cantonese,china,0,0,0
+cantonese11,cantonese,china,0,0,0
+cantonese12,cantonese,china,0,0,0
+cantonese13,cantonese,china,0,0,0
+cantonese14,cantonese,china,0,0,0
+cantonese15,cantonese,china,0,0,0
+cantonese16,cantonese,china,0,0,0
+cantonese17,cantonese,china,0,1,0
+cantonese18,cantonese,china,0,1,0
+cantonese19,cantonese,china,0,0,0
+cantonese2,cantonese,china,0,0,0
+cantonese20,cantonese,china,0,0,0
+cantonese21,cantonese,china,0,0,0
+cantonese22,cantonese,china,0,0,0
+cantonese23,cantonese,china,0,0,0
+cantonese3,cantonese,china,0,0,0
+cantonese4,cantonese,china,0,0,0
+cantonese5,cantonese,china,0,0,0
+cantonese6,cantonese,china,0,0,0
+cantonese7,cantonese,china,0,0,0
+cantonese8,cantonese,china,0,1,0
+cantonese9,cantonese,china,0,1,0
+carolinian1,carolinian,northern mariana islands,0,0,0
+catalan1,catalan,spain,0,0,0
+catalan2,catalan,spain,0,1,0
+catalan3,catalan,chile,0,1,0
+catalan4,catalan,spain,0,0,0
+cebuano1,cebuano,philippines,0,1,0
+chaldean1,chaldean,iraq,0,1,0
+chaldean2,chaldean,iraq,0,0,0
+chamorro1,chamorro,northern mariana islands,0,1,0
+chichewa1,chichewa,malawi,0,0,0
+chittagonian1,chittagonian,bangladesh,0,0,0
+croatian1,croatian,croatia,0,0,0
+croatian2,croatian,bosnia and herzegovina,0,0,0
+croatian3,croatian,croatia,0,0,0
+croatian4,croatian,croatia,0,0,0
+croatian5,croatian,bosnia and herzegovina,0,0,0
+croatian6,croatian,bosnia and herzegovina,0,0,0
+croatian7,croatian,croatia,0,0,0
+croatian8,croatian,croatia,0,0,0
+czech1,czech,czech republic,0,0,0
+czech2,czech,czech republic,0,0,0
+czech3,czech,czech republic,0,0,0
+czech4,czech,czech republic,0,0,0
+czech5,czech,czech republic,0,0,0
+czech6,czech,czech republic,0,0,0
+czech7,czech,czech republic,0,0,0
+czech8,czech,czech republic,0,1,0
+czech9,czech,czech republic,0,0,0
+danish1,danish,denmark,0,0,0
+danish2,danish,denmark,0,1,0
+danish3,danish,denmark,0,0,0
+danish4,danish,denmark,0,1,0
+danish5,danish,denmark,0,0,0
+danish6,danish,denmark,0,0,0
+danish7,danish,denmark,0,1,0
+danish8,danish,denmark,0,1,0
+dari1,dari,afghanistan,0,0,0
+dari2,dari,afghanistan,0,0,0
+dari3,dari,afghanistan,0,0,0
+dari4,dari,afghanistan,0,0,0
+dari5,dari,afghanistan,0,0,0
+dinka1,dinka,sudan,0,0,0
+dutch1,dutch,netherlands,0,0,0
+dutch10,dutch,belgium,0,0,0
+dutch11,dutch,belgium,0,0,0
+dutch12,dutch,netherlands,0,0,0
+dutch13,dutch,netherlands,0,0,0
+dutch14,dutch,netherlands,0,0,0
+dutch15,dutch,netherlands,0,0,0
+dutch16,dutch,belgium,0,1,0
+dutch17,dutch,belgium,0,1,0
+dutch18,dutch,belgium,0,0,0
+dutch19,dutch,belgium,0,1,0
+dutch2,dutch,netherlands,0,0,0
+dutch20,dutch,belgium,0,1,0
+dutch21,dutch,belgium,0,1,0
+dutch22,dutch,belgium,0,1,0
+dutch23,dutch,belgium,0,0,0
+dutch24,dutch,south korea,0,1,0
+dutch25,dutch,belgium,0,1,0
+dutch26,dutch,belgium,0,1,0
+dutch27,dutch,belgium,0,1,0
+dutch28,dutch,belgium,0,1,0
+dutch29,dutch,netherlands,0,1,0
+dutch3,dutch,netherlands,0,0,0
+dutch30,dutch,belgium,0,0,0
+dutch31,dutch,belgium,0,0,0
+dutch32,dutch,belgium,0,0,0
+dutch33,dutch,belgium,0,1,0
+dutch34,dutch,belgium,0,0,0
+dutch35,dutch,belgium,0,1,0
+dutch36,dutch,belgium,0,1,0
+dutch37,dutch,belgium,0,1,0
+dutch38,dutch,belgium,0,1,0
+dutch39,dutch,netherlands,0,1,0
+dutch4,dutch,belgium,0,0,0
+dutch40,dutch,netherlands,0,0,0
+dutch41,dutch,netherlands,0,0,0
+dutch42,dutch,netherlands,0,0,0
+dutch43,dutch,netherlands,0,0,0
+dutch44,dutch,belgium,0,0,0
+dutch45,dutch,belgium,0,1,0
+dutch46,dutch,belgium,0,1,0
+dutch47,dutch,netherlands,0,1,0
+dutch5,dutch,netherlands,0,1,0
+dutch6,dutch,belgium,0,1,0
+dutch7,dutch,netherlands,0,0,0
+dutch8,dutch,netherlands,0,0,0
+dutch9,dutch,netherlands,0,0,0
+ebira1,ebira,nigeria,0,0,0
+edo1,edo,nigeria,0,0,0
+english1,english,usa,1,1,1
+english10,english,usa,1,1,1
+english100,english,usa,1,1,1
+english101,english,canada,1,1,1
+english102,english,usa,1,1,1
+english103,english,usa,1,1,1
+english104,english,usa,1,1,1
+english105,english,canada,1,1,1
+english106,english,usa,1,1,1
+english107,english,usa,1,1,1
+english108,english,uk,1,0,1
+english109,english,usa,1,1,1
+english11,english,uk,1,1,1
+english110,english,uk,1,0,1
+english111,english,india,1,1,1
+english112,english,us virgin islands,1,0,1
+english113,english,uk,1,1,1
+english114,english,usa,1,1,1
+english115,english,uk,1,1,1
+english116,english,usa,1,1,1
+english117,english,usa,1,1,1
+english118,english,usa,1,1,1
+english119,english,canada,1,1,1
+english12,english,uk,1,1,1
+english120,english,canada,1,1,1
+english121,english,usa,1,1,1
+english122,english,malaysia,1,1,1
+english123,english,usa,1,1,1
+english124,english,usa,1,1,1
+english125,english,australia,1,1,1
+english126,english,usa,1,1,1
+english127,english,usa,1,1,1
+english128,english,usa,1,1,1
+english129,english,uk,1,1,1
+english13,english,uk,1,1,1
+english130,english,south africa,1,1,1
+english131,english,usa,1,1,1
+english132,english,canada,1,1,1
+english133,english,usa,1,1,1
+english134,english,uk,1,1,1
+english135,english,usa,1,1,1
+english136,english,canada,1,1,1
+english137,english,usa,1,1,1
+english138,english,usa,1,1,1
+english139,english,usa,1,1,1
+english14,english,uk,1,1,1
+english140,english,philippines,1,1,1
+english141,english,uk,1,1,1
+english142,english,usa,1,1,1
+english143,english,usa,1,1,1
+english144,english,canada,1,1,1
+english145,english,uk,1,1,1
+english146,english,usa,1,1,1
+english147,english,usa,1,1,1
+english148,english,australia,1,1,1
+english149,english,usa,1,0,1
+english15,english,usa,1,0,1
+english150,english,usa,1,1,1
+english151,english,usa,1,1,1
+english152,english,australia,1,1,1
+english153,english,australia,1,1,1
+english154,english,canada,1,1,1
+english155,english,usa,1,1,1
+english156,english,ireland,1,1,1
+english157,english,usa,1,1,1
+english158,english,usa,1,1,1
+english159,english,canada,1,1,1
+english16,english,usa,1,0,1
+english160,english,usa,1,1,1
+english161,english,usa,1,1,1
+english162,english,usa,1,1,1
+english163,english,usa,1,1,1
+english164,english,uk,1,0,1
+english165,english,usa,1,1,1
+english166,english,usa,1,1,1
+english167,english,usa,1,1,1
+english168,english,usa,1,1,1
+english169,english,usa,1,1,1
+english17,english,usa,1,1,1
+english170,english,usa,1,1,1
+english171,english,usa,1,1,1
+english172,english,jamaica,1,1,1
+english173,english,usa,1,1,1
+english174,english,malaysia,1,0,1
+english175,english,usa,1,1,1
+english176,english,usa,1,1,1
+english177,english,usa,1,1,1
+english178,english,usa,1,1,1
+english179,english,usa,1,1,1
+english18,english,usa,1,1,1
+english180,english,usa,1,1,1
+english181,english,usa,1,0,1
+english182,english,usa,1,1,1
+english183,english,guyana,1,0,1
+english184,english,usa,1,1,1
+english185,english,uk,1,1,1
+english186,english,usa,1,1,1
+english187,english,usa,1,1,1
+english188,english,uk,1,0,1
+english189,english,usa,1,1,1
+english19,english,usa,1,1,1
+english190,english,usa,1,1,1
+english191,english,usa,1,1,1
+english192,english,usa,1,1,1
+english193,english,usa,1,1,1
+english194,english,uk,1,1,1
+english195,english,usa,1,1,1
+english196,english,fiji,1,1,1
+english197,english,usa,1,1,1
+english198,english,usa,1,0,1
+english199,english,usa,1,1,1
+english2,english,uk,1,1,1
+english20,english,usa,1,1,1
+english200,english,usa,1,1,1
+english201,english,usa,1,1,1
+english202,english,usa,1,1,1
+english203,english,usa,1,1,1
+english204,english,usa,1,1,1
+english205,english,usa,1,1,1
+english206,english,uk,1,1,1
+english207,english,usa,1,1,1
+english208,english,usa,1,1,1
+english209,english,antigua and barbuda,1,1,1
+english21,english,usa,1,1,1
+english210,english,canada,1,1,1
+english211,english,usa,1,1,1
+english212,english,usa,1,1,1
+english213,english,usa,1,1,1
+english214,english,usa,1,1,1
+english215,english,uk,1,1,1
+english216,english,usa,1,1,1
+english217,english,uk,1,1,1
+english218,english,usa,1,1,1
+english219,english,usa,1,1,1
+english22,english,panama,1,0,1
+english220,english,usa,1,1,1
+english221,english,uk,1,0,1
+english222,english,usa,1,1,1
+english223,english,usa,1,1,1
+english224,english,barbados,1,0,1
+english225,english,uk,1,1,1
+english226,english,uk,1,1,1
+english227,english,uk,1,1,1
+english228,english,uk,1,1,1
+english229,english,usa,1,1,1
+english23,english,usa,1,1,1
+english230,english,australia,1,1,1
+english231,english,usa,1,1,1
+english232,english,usa,1,1,1
+english233,english,canada,1,1,1
+english234,english,usa,1,1,1
+english235,english,usa,1,1,1
+english236,english,usa,1,1,1
+english237,english,usa,1,1,1
+english238,english,canada,1,1,1
+english239,english,panama,1,1,1
+english24,english,uk,1,1,1
+english240,english,canada,1,1,1
+english241,english,new zealand,1,1,1
+english242,english,usa,1,0,1
+english243,english,canada,1,1,1
+english244,english,usa,1,1,1
+english245,english,usa,1,1,1
+english246,english,usa,1,1,1
+english247,english,canada,1,1,1
+english248,english,usa,1,1,1
+english249,english,usa,1,1,1
+english25,english,usa,1,1,1
+english250,english,uk,1,0,1
+english251,english,usa,1,1,1
+english252,english,usa,1,1,1
+english253,english,ireland,1,1,1
+english254,english,usa,1,1,1
+english255,english,new zealand,1,0,1
+english256,english,usa,1,1,1
+english257,english,usa,1,1,1
+english258,english,ireland,1,1,1
+english259,english,singapore,1,0,1
+english26,english,usa,1,1,1
+english260,english,usa,1,1,1
+english261,english,usa,1,0,1
+english262,english,usa,1,0,1
+english263,english,usa,1,1,1
+english264,english,usa,1,1,1
+english265,english,usa,1,1,1
+english266,english,usa,1,1,1
+english267,english,uk,1,0,1
+english268,english,uk,1,1,1
+english269,english,australia,1,1,1
+english27,english,usa,1,0,1
+english270,english,south africa,1,1,1
+english271,english,south africa,1,0,1
+english272,english,usa,1,1,1
+english273,english,usa,1,1,1
+english274,english,australia,1,1,1
+english275,english,usa,1,1,1
+english276,english,usa,1,1,1
+english277,english,usa,1,1,1
+english278,english,usa,1,1,1
+english279,english,singapore,1,1,1
+english28,english,canada,1,1,1
+english280,english,isle of man,1,1,1
+english281,english,usa,1,1,1
+english282,english,usa,1,1,1
+english283,english,usa,1,1,1
+english284,english,usa,1,1,1
+english285,english,australia,1,1,1
+english286,english,usa,1,1,1
+english287,english,singapore,1,0,1
+english288,english,usa,1,1,1
+english289,english,usa,1,1,1
+english29,english,canada,1,1,1
+english290,english,usa,1,1,1
+english291,english,belize,1,1,1
+english292,english,usa,1,1,1
+english293,english,usa,1,1,1
+english294,english,australia,1,1,1
+english295,english,canada,1,1,1
+english296,english,canada,1,1,1
+english297,english,usa,1,1,1
+english298,english,australia,1,1,1
+english299,english,canada,1,1,1
+english3,english,australia,1,1,1
+english30,english,canada,1,1,1
+english300,english,ireland,1,1,1
+english301,english,canada,1,1,1
+english302,english,australia,1,1,1
+english303,english,usa,1,1,1
+english304,english,ireland,1,1,1
+english305,english,bolivia,1,0,1
+english306,english,uk,1,1,1
+english307,english,usa,1,1,1
+english308,english,uk,1,1,1
+english309,english,new zealand,1,1,1
+english31,english,trinidad,1,0,1
+english310,english,uk,1,1,1
+english311,english,usa,1,1,1
+english312,english,canada,1,1,1
+english313,english,usa,1,1,1
+english314,english,usa,1,1,1
+english315,english,usa,1,1,1
+english316,english,usa,1,1,1
+english317,english,usa,1,1,1
+english318,english,canada,1,1,1
+english319,english,uk,1,1,1
+english32,english,usa,1,1,1
+english320,english,liberia,1,0,1
+english321,english,usa,1,1,1
+english322,english,canada,1,1,1
+english323,english,canada,1,1,1
+english324,english,canada,1,1,1
+english325,english,usa,1,1,1
+english326,english,usa,1,1,1
+english327,english,usa,1,1,1
+english328,english,usa,1,1,1
+english329,english,usa,1,1,1
+english33,english,usa,1,1,1
+english330,english,usa,1,1,1
+english331,english,australia,1,1,1
+english332,english,usa,1,1,1
+english333,english,usa,1,1,1
+english334,english,uk,1,0,1
+english335,english,usa,1,0,1
+english336,english,usa,1,1,1
+english337,english,usa,1,1,1
+english338,english,australia,1,1,1
+english339,english,usa,1,1,1
+english34,english,usa,1,1,1
+english340,english,usa,1,1,1
+english341,english,usa,1,1,1
+english342,english,usa,1,1,1
+english343,english,usa,1,1,1
+english344,english,usa,1,1,1
+english345,english,usa,1,1,1
+english346,english,usa,1,1,1
+english347,english,usa,1,1,1
+english348,english,philippines,1,1,1
+english349,english,usa,1,1,1
+english35,english,usa,1,1,1
+english350,english,uk,1,0,1
+english351,english,usa,1,1,1
+english352,english,singapore,1,0,1
+english353,english,canada,1,1,1
+english354,english,new zealand,1,1,1
+english355,english,usa,1,1,1
+english356,english,canada,1,1,1
+english357,english,usa,1,1,1
+english358,english,canada,1,1,1
+english359,english,canada,1,1,1
+english36,english,usa,1,1,1
+english360,english,usa,1,1,1
+english361,english,usa,1,0,1
+english362,english,ireland,1,1,1
+english363,english,uk,1,1,1
+english364,english,australia,1,1,1
+english365,english,uk,1,1,1
+english366,english,uk,1,1,1
+english367,english,uk,1,1,1
+english368,english,uk,1,1,1
+english369,english,usa,1,1,1
+english37,english,india,1,1,1
+english370,english,india,1,1,1
+english371,english,usa,1,1,1
+english372,english,usa,1,1,1
+english373,english,usa,1,1,1
+english374,english,uk,1,1,1
+english375,english,usa,1,1,1
+english376,english,usa,1,1,1
+english377,english,usa,1,1,1
+english378,english,usa,1,1,1
+english379,english,usa,1,1,1
+english38,english,uk,1,1,1
+english380,english,usa,1,1,1
+english381,english,usa,1,0,1
+english382,english,usa,1,1,1
+english383,english,usa,1,1,1
+english384,english,usa,1,1,1
+english385,english,usa,1,0,1
+english386,english,usa,1,1,1
+english387,english,usa,1,1,1
+english388,english,usa,1,0,1
+english389,english,usa,1,0,1
+english39,english,usa,1,1,1
+english390,english,usa,1,1,1
+english391,english,usa,1,0,1
+english392,english,usa,1,0,1
+english393,english,usa,1,1,1
+english394,english,usa,1,0,1
+english395,english,usa,1,1,1
+english396,english,usa,1,0,1
+english397,english,usa,1,0,1
+english398,english,usa,1,0,1
+english399,english,usa,1,0,1
+english4,english,jamaica,1,0,1
+english40,english,uk,1,1,1
+english400,english,uk,1,1,1
+english401,english,switzerland,1,1,1
+english402,english,australia,1,1,1
+english403,english,australia,1,1,1
+english404,english,australia,1,1,1
+english405,english,australia,1,1,1
+english406,english,usa,1,1,1
+english407,english,canada,1,1,1
+english408,english,usa,1,1,1
+english409,english,australia,1,1,1
+english41,english,new zealand,1,1,1
+english410,english,new zealand,1,1,1
+english411,english,usa,1,1,1
+english412,english,usa,1,1,1
+english413,english,uk,1,1,1
+english414,english,usa,1,1,1
+english415,english,usa,1,1,1
+english416,english,australia,1,1,1
+english417,english,uk,1,1,1
+english418,english,virginia,1,1,1
+english419,english,usa,1,1,1
+english42,english,south africa,1,1,1
+english420,english,new zealand,1,1,1
+english421,english,germany,1,1,1
+english422,english,usa,1,1,1
+english423,english,usa,1,1,1
+english424,english,usa,1,0,1
+english425,english,usa,1,1,1
+english426,english,usa,1,1,1
+english427,english,usa,1,1,1
+english428,english,usa,1,1,1
+english429,english,usa,1,1,1
+english43,english,canada,1,1,1
+english430,english,australia,1,0,1
+english431,english,usa,1,1,1
+english432,english,ireland,1,1,1
+english433,english,usa,1,1,1
+english434,english,usa,1,1,1
+english435,english,usa,1,1,1
+english436,english,the bahamas,1,0,1
+english437,english,usa,1,1,1
+english438,english,usa,1,1,1
+english439,english,canada,1,1,1
+english44,english,usa,1,1,1
+english440,english,uk,1,0,1
+english441,english,usa,1,1,1
+english442,english,usa,1,1,1
+english443,english,usa,1,1,1
+english444,english,usa,1,1,1
+english445,english,usa,1,1,1
+english446,english,usa,1,1,1
+english447,english,usa,1,1,1
+english448,english,uk,1,1,1
+english449,english,usa,1,1,1
+english45,english,usa,1,0,1
+english450,english,uk,1,0,1
+english451,english,usa,1,1,1
+english452,english,australia,1,1,1
+english453,english,usa,1,1,1
+english454,english,usa,1,1,1
+english455,english,usa,1,1,1
+english456,english,uk,1,1,1
+english457,english,usa,1,1,1
+english458,english,usa,1,1,1
+english459,english,usa,1,1,1
+english46,english,usa,1,0,1
+english460,english,uk,1,1,1
+english461,english,usa,1,1,1
+english462,english,usa,1,1,1
+english463,english,usa,1,1,1
+english464,english,canada,1,1,1
+english465,english,uk,1,1,1
+english466,english,usa,1,1,1
+english467,english,italy,1,1,1
+english468,english,usa,1,1,1
+english469,english,usa,1,1,1
+english47,english,usa,1,1,1
+english470,english,uk,1,1,1
+english471,english,canada,1,1,1
+english472,english,spain,1,1,1
+english473,english,uk,1,1,1
+english474,english,usa,1,1,1
+english475,english,usa,1,1,1
+english476,english,usa,1,1,1
+english477,english,usa,1,1,1
+english478,english,canada,1,1,1
+english479,english,usa,1,1,1
+english48,english,papua new guinea,1,1,1
+english480,english,usa,1,1,1
+english481,english,usa,1,0,1
+english482,english,usa,1,1,1
+english483,english,usa,1,1,1
+english484,english,ireland,1,1,1
+english485,english,usa,1,1,1
+english486,english,guyana,1,1,1
+english487,english,uk,1,0,1
+english488,english,uk,1,0,1
+english489,english,jamaica,1,0,1
+english49,english,usa,1,1,1
+english490,english,new zealand,1,1,1
+english491,english,jamaica,1,0,1
+english492,english,usa,1,1,1
+english493,english,usa,1,1,1
+english494,english,usa,1,1,1
+english495,english,usa,1,1,1
+english496,english,uk,1,1,1
+english497,english,usa,1,1,1
+english498,english,canada,1,1,1
+english499,english,usa,1,1,1
+english5,english,usa,1,1,1
+english50,english,usa,1,1,1
+english500,english,australia,1,1,1
+english501,english,usa,1,1,1
+english502,english,usa,1,1,1
+english503,english,nigeria,1,0,1
+english504,english,usa,1,1,1
+english505,english,lebanon,1,1,1
+english506,english,usa,1,1,1
+english507,english,ghana,1,1,1
+english508,english,usa,1,1,1
+english509,english,usa,1,1,1
+english51,english,usa,1,1,1
+english510,english,usa,1,1,1
+english511,english,usa,1,1,1
+english512,english,usa,1,1,1
+english513,english,panama,1,0,1
+english514,english,usa,1,1,1
+english515,english,usa,1,1,1
+english516,english,usa,1,1,1
+english517,english,usa,1,1,1
+english518,english,ireland,1,1,1
+english519,english,pakistan,1,1,1
+english52,english,canada,1,1,1
+english520,english,usa,1,1,1
+english521,english,usa,1,1,1
+english522,english,usa,1,1,1
+english523,english,usa,1,1,1
+english524,english,usa,1,1,1
+english525,english,usa,1,1,1
+english526,english,usa,1,1,1
+english527,english,usa,1,1,1
+english528,english,usa,1,1,1
+english529,english,usa,1,1,1
+english53,english,usa,1,1,1
+english530,english,usa,1,1,1
+english531,english,usa,1,1,1
+english532,english,usa,1,1,1
+english533,english,usa,1,1,1
+english534,english,usa,1,1,1
+english535,english,usa,1,1,1
+english536,english,usa,1,1,1
+english537,english,usa,1,1,1
+english538,english,usa,1,1,1
+english539,english,usa,1,1,1
+english54,english,usa,1,1,1
+english540,english,usa,1,1,1
+english541,english,usa,1,1,1
+english542,english,canada,1,1,1
+english543,english,canada,1,1,1
+english544,english,usa,1,1,1
+english545,english,usa,1,1,1
+english546,english,usa,1,0,1
+english547,english,usa,1,0,1
+english548,english,ireland,1,0,1
+english549,english,uk,1,1,1
+english55,english,usa,1,1,1
+english550,english,usa,1,0,1
+english551,english,usa,1,0,1
+english552,english,usa,1,1,1
+english553,english,usa,1,1,1
+english554,english,usa,1,0,1
+english555,english,usa,1,0,1
+english556,english,usa,1,1,1
+english557,english,united arab emirates,1,1,1
+english558,english,usa,1,1,1
+english559,english,usa,1,1,1
+english56,english,uk,1,1,1
+english560,english,usa,1,1,1
+english561,english,usa,1,1,1
+english562,english,usa,1,1,1
+english563,english,usa,1,1,1
+english564,english,usa,1,1,1
+english565,english,usa,1,1,1
+english566,english,uk,1,1,1
+english567,english,usa,1,1,1
+english568,english,usa,1,0,1
+english569,english,australia,1,1,1
+english57,english,uk,1,1,1
+english570,english,usa,1,1,1
+english571,english,usa,1,1,1
+english572,english,usa,1,1,1
+english573,english,usa,1,1,1
+english574,english,canada,1,1,1
+english575,english,usa,1,1,1
+english576,english,usa,1,1,1
+english577,english,usa,1,1,1
+english578,english,uk,1,1,1
+english579,english,australia,1,1,1
+english58,english,uk,1,1,1
+english59,english,usa,1,1,1
+english6,english,usa,1,1,1
+english60,english,usa,1,1,1
+english61,english,canada,1,1,1
+english62,english,usa,1,1,1
+english63,english,usa,1,1,1
+english64,english,canada,1,1,1
+english65,english,usa,1,1,1
+english66,english,usa,1,1,1
+english67,english,usa,1,1,1
+english68,english,usa,1,1,1
+english69,english,australia,1,1,1
+english7,english,usa,1,1,1
+english70,english,usa,1,1,1
+english71,english,usa,1,1,1
+english72,english,ireland,1,1,1
+english73,english,australia,1,1,1
+english74,english,usa,1,1,1
+english75,english,usa,1,1,1
+english76,english,usa,1,1,1
+english77,english,australia,1,1,1
+english78,english,usa,1,1,1
+english79,english,usa,1,1,1
+english8,english,australia,1,1,1
+english80,english,uk,1,1,1
+english81,english,usa,1,1,1
+english82,english,usa,1,1,1
+english83,english,usa,1,1,1
+english84,english,australia,1,1,1
+english85,english,uk,1,1,1
+english86,english,usa,1,1,1
+english87,english,australia,1,1,1
+english88,english,usa,1,1,1
+english89,english,usa,1,1,1
+english9,english,usa,1,0,1
+english90,english,usa,1,1,1
+english91,english,jamaica,1,0,1
+english92,english,usa,1,1,1
+english93,english,usa,1,1,1
+english94,english,usa,1,1,1
+english95,english,usa,1,1,1
+english96,english,usa,1,1,1
+english97,english,usa,1,1,1
+english98,english,usa,1,1,1
+english99,english,usa,1,1,1
+estonian1,estonian,estonia,0,1,0
+estonian2,estonian,estonia,0,0,0
+estonian3,estonian,estonia,0,0,0
+estonian4,estonian,estonia,0,1,0
+ewe1,ewe,ghana,0,0,0
+ewe2,ewe,ghana,0,0,0
+fang1,fang,equatorial guinea,0,0,0
+fanti1,fanti,ghana,0,0,0
+fanti2,fanti,ghana,0,0,0
+fanti3,fanti,ghana,0,0,0
+faroese1,faroese,faroe islands,0,0,0
+farsi1,farsi,iran,0,0,0
+farsi10,farsi,iran,0,0,0
+farsi11,farsi,afghanistan,0,1,0
+farsi12,farsi,iran,0,1,0
+farsi13,farsi,iran,0,0,0
+farsi14,farsi,usa,0,0,0
+farsi15,farsi,iran,0,0,0
+farsi16,farsi,iran,0,0,0
+farsi17,farsi,iran,0,0,0
+farsi18,farsi,iran,0,0,0
+farsi19,farsi,iran,0,0,0
+farsi2,farsi,iran,0,0,0
+farsi20,farsi,afghanistan,0,0,0
+farsi21,farsi,afghanistan,0,1,0
+farsi22,farsi,iran,0,0,0
+farsi23,farsi,iran,0,0,0
+farsi3,farsi,iran,0,0,0
+farsi4,farsi,iran,0,0,0
+farsi5,farsi,iran,0,0,0
+farsi6,farsi,iran,0,0,0
+farsi7,farsi,iran,0,0,0
+farsi8,farsi,iran,0,0,0
+farsi9,farsi,iran,0,0,0
+fataluku1,fataluku,timor-leste,0,0,0
+fijian1,fijian,fiji,0,1,0
+fijian2,fijian,fiji,0,0,0
+fijian3,fijian,fiji,0,0,0
+filipino1,filipino,philippines,0,0,0
+filipino2,filipino,philippines,0,0,0
+finnish1,finnish,finland,0,0,0
+finnish2,finnish,finland,0,0,0
+finnish3,finnish,finland,0,1,0
+finnish4,finnish,finland,0,0,0
+finnish5,finnish,canada,0,1,0
+finnish6,finnish,finland,0,0,0
+finnish7,finnish,finland,0,0,0
+finnish8,finnish,finland,0,0,0
+french1,french,france,0,0,0
+french10,french,france,0,0,0
+french11,french,france,0,0,0
+french12,french,canada,0,0,0
+french13,french,france,0,0,0
+french14,french,france,0,0,0
+french15,french,france,0,0,0
+french16,french,canada,0,0,0
+french17,french,switzerland,0,0,0
+french18,french,usa,0,0,0
+french19,french,france,0,0,0
+french2,french,tunisia,0,0,0
+french20,french,canada,0,1,0
+french21,french,france,0,0,0
+french22,french,belgium,0,0,0
+french23,french,belgium,0,0,0
+french24,french,algeria,0,0,0
+french25,french,france,0,0,0
+french26,french,canada,0,1,0
+french27,french,algeria,0,0,0
+french28,french,haiti,0,1,0
+french29,french,france,0,0,0
+french3,french,france,0,0,0
+french30,french,democratic republic of congo,0,0,0
+french31,french,france,0,0,0
+french32,french,democratic republic of congo,0,0,0
+french33,french,canada,0,0,0
+french34,french,ivory coast,0,0,0
+french35,french,france,0,0,0
+french36,french,france,0,0,0
+french37,french,france,0,0,0
+french38,french,canada,0,0,0
+french39,french,france,0,0,0
+french4,french,ivory coast,0,0,0
+french40,french,france,0,0,0
+french41,french,andorra,0,0,0
+french42,french,democratic republic of congo,0,0,0
+french43,french,france,0,0,0
+french44,french,switzerland,0,0,0
+french45,french,canada,0,1,0
+french46,french,france,0,0,0
+french47,french,france,0,0,0
+french48,french,cameroon,0,0,0
+french49,french,france,0,0,0
+french5,french,cameroon,0,0,0
+french50,french,france,0,0,0
+french51,french,belgium,0,0,0
+french52,french,portugal,0,0,0
+french53,french,france,0,0,0
+french54,french,france,0,0,0
+french55,french,morocco,0,0,0
+french56,french,cameroon,0,0,0
+french57,french,senegal,0,0,0
+french58,french,cameroon,0,0,0
+french59,french,france,0,0,0
+french6,french,gabon,0,0,0
+french60,french,france,0,0,0
+french61,french,pakistan,0,0,0
+french62,french,france,0,0,0
+french63,french,burkina faso,0,0,0
+french7,french,canada,0,1,0
+french8,french,belgium,0,0,0
+french9,french,martinique,0,0,0
+frisian1,frisian,netherlands,0,0,0
+ga1,ga,ghana,0,0,0
+ga2,ga,ghana,0,0,0
+ga3,ga,ghana,0,0,0
+ga4,ga,ghana,0,1,0
+ga5,ga,ghana,0,0,0
+ga6,ga,ghana,0,0,0
+gan1,gan,china,0,0,0
+ganda1,ganda,uganda,0,0,0
+ganda2,ganda,uganda,0,0,0
+garifuna1,garifuna,belize,0,0,0
+garifuna2,garifuna,honduras,0,0,0
+gedeo1,gedeo,ethiopia,0,0,0
+georgian1,georgian,republic of georgia,0,0,0
+georgian2,georgian,republic of georgia,0,0,0
+georgian3,georgian,republic of georgia,0,0,0
+georgian4,georgian,republic of georgia,0,0,0
+georgian5,georgian,republic of georgia,0,0,0
+german1,german,germany,0,0,0
+german10,german,germany,0,0,0
+german11,german,germany,0,0,0
+german12,german,austria,0,0,0
+german13,german,liechtenstein,0,0,0
+german14,german,austria,0,0,0
+german15,german,austria,0,1,0
+german16,german,germany,0,1,0
+german17,german,germany,0,1,0
+german18,german,austria,0,0,0
+german19,german,germany,0,0,0
+german2,german,germany,0,0,0
+german20,german,switzerland,0,0,0
+german21,german,austria,0,1,0
+german22,german,germany,0,0,0
+german23,german,germany,0,0,0
+german24,german,germany,0,0,0
+german25,german,germany,0,0,0
+german26,german,germany,0,0,0
+german27,german,germany,0,0,0
+german28,german,austria,0,0,0
+german29,german,germany,0,0,0
+german3,german,germany,0,0,0
+german30,german,austria,0,1,0
+german31,german,germany,0,0,0
+german32,german,germany,0,0,0
+german33,german,germany,0,0,0
+german34,german,germany,0,1,0
+german35,german,germany,0,1,0
+german36,german,germany,0,0,0
+german4,german,germany,0,0,0
+german5,german,germany,0,0,0
+german6,german,austria,0,1,0
+german7,german,germany,0,0,0
+german8,german,germany,0,1,0
+german9,german,germany,0,0,0
+greek1,greek,greece,0,0,0
+greek10,greek,cyprus,0,0,0
+greek11,greek,greece,0,0,0
+greek12,greek,usa,0,1,0
+greek13,greek,albania,0,1,0
+greek14,greek,usa,0,1,0
+greek15,greek,israel,0,0,0
+greek2,greek,greece,0,0,0
+greek3,greek,greece,0,0,0
+greek4,greek,greece,0,0,0
+greek5,greek,cyprus,0,0,0
+greek6,greek,greece,0,0,0
+greek7,greek,greece,0,0,0
+greek8,greek,greece,0,1,0
+greek9,greek,greece,0,0,0
+gujarati1,gujarati,india,0,0,0
+gujarati2,gujarati,india,0,0,0
+gujarati3,gujarati,ireland,0,0,0
+gujarati4,gujarati,india,0,0,0
+gujarati5,gujarati,india,0,1,0
+gujarati6,gujarati,india,0,0,0
+gujarati7,gujarati,india,0,0,0
+gujarati8,gujarati,india,0,1,0
+gujarati9,gujarati,india,0,0,0
+gusii1,gusii,kenya,0,0,0
+gusii2,gusii,kenya,0,0,0
+hadiyya1,hadiyya,ethiopia,0,0,0
+hadiyya2,hadiyya,ethiopia,0,0,0
+hainanese1,hainanese,singapore,0,0,0
+hakka1,hakka,taiwan,0,0,0
+hausa1,hausa,nigeria,0,0,0
+hausa2,hausa,nigeria,0,0,0
+hausa3,hausa,nigeria,0,0,0
+hausa4,hausa,nigeria,0,0,0
+hausa5,hausa,niger,0,0,0
+hausa6,hausa,nigeria,0,0,0
+hausa7,hausa,nigeria,0,0,0
+hausa8,hausa,nigeria,0,0,0
+hausa9,hausa,nigeria,0,0,0
+hebrew1,hebrew,israel,0,0,0
+hebrew2,hebrew,israel,0,0,0
+hebrew3,hebrew,israel,0,0,0
+hebrew4,hebrew,israel,0,1,0
+hebrew5,hebrew,israel,0,0,0
+hebrew6,hebrew,israel,0,1,0
+hebrew7,hebrew,israel,0,1,0
+hebrew8,hebrew,israel,0,0,0
+hebrew9,hebrew,israel,0,1,0
+hindi1,hindi,india,0,0,0
+hindi10,hindi,india,0,1,0
+hindi11,hindi,india,0,0,0
+hindi12,hindi,india,0,0,0
+hindi13,hindi,india,0,0,0
+hindi14,hindi,india,0,0,0
+hindi15,hindi,india,0,0,0
+hindi16,hindi,india,0,0,0
+hindi17,hindi,india,0,0,0
+hindi18,hindi,india,0,0,0
+hindi2,hindi,india,0,1,0
+hindi3,hindi,india,0,0,0
+hindi4,hindi,india,0,0,0
+hindi5,hindi,india,0,0,0
+hindi6,hindi,india,0,0,0
+hindi7,hindi,india,0,0,0
+hindi8,hindi,india,0,1,0
+hindi9,hindi,india,0,1,0
+hindko1,hindko,pakistan,0,0,0
+hmong1,hmong,laos,0,0,0
+hmong2,hmong,laos,0,0,0
+hungarian1,hungarian,hungary,0,0,0
+hungarian2,hungarian,romania,0,0,0
+hungarian3,hungarian,romania,0,0,0
+hungarian4,hungarian,hungary,0,0,0
+hungarian5,hungarian,hungary,0,0,0
+hungarian6,hungarian,hungary,0,0,0
+hungarian7,hungarian,hungary,0,0,0
+hungarian8,hungarian,hungary,0,0,0
+hungarian9,hungarian,hungary,0,0,0
+ibibio1,ibibio,nigeria,0,0,0
+ibibio2,ibibio,nigeria,0,0,0
+ibibio3,ibibio,nigeria,0,0,0
+icelandic1,icelandic,iceland,0,0,0
+icelandic2,icelandic,iceland,0,0,0
+icelandic3,icelandic,iceland,0,0,0
+ife1,ife,togo,0,0,0
+igbo1,igbo,nigeria,0,0,0
+igbo2,igbo,nigeria,0,0,0
+igbo3,igbo,nigeria,0,0,0
+ilonggo1,ilonggo,philippines,0,0,0
+indonesian1,indonesian,indonesia,0,0,0
+indonesian2,indonesian,indonesia,0,0,0
+indonesian3,indonesian,indonesia,0,0,0
+indonesian4,indonesian,indonesia,0,0,0
+indonesian5,indonesian,indonesia,0,0,0
+indonesian6,indonesian,indonesia,0,0,0
+indonesian7,indonesian,indonesia,0,0,0
+indonesian8,indonesian,indonesia,0,0,0
+irish1,irish,ireland,0,1,0
+italian1,italian,italy,0,0,0
+italian10,italian,italy,0,0,0
+italian11,italian,italy,0,0,0
+italian12,italian,switzerland,0,0,0
+italian13,italian,italy,0,0,0
+italian14,italian,italy,0,0,0
+italian15,italian,italy,0,0,0
+italian16,italian,italy,0,0,0
+italian17,italian,italy,0,0,0
+italian18,italian,italy,0,0,0
+italian19,italian,italy,0,0,0
+italian2,italian,italy,0,0,0
+italian20,italian,italy,0,0,0
+italian21,italian,italy,0,0,0
+italian22,italian,italy,0,0,0
+italian23,italian,italy,0,0,0
+italian24,italian,italy,0,0,0
+italian25,italian,germany,0,1,0
+italian26,italian,italy,0,0,0
+italian27,italian,italy,0,0,0
+italian28,italian,italy,0,0,0
+italian29,italian,italy,0,0,0
+italian3,italian,italy,0,0,0
+italian30,italian,italy,0,0,0
+italian31,italian,italy,0,0,0
+italian32,italian,italy,0,0,0
+italian33,italian,italy,0,0,0
+italian4,italian,italy,0,0,0
+italian5,italian,italy,0,0,0
+italian6,italian,italy,0,0,0
+italian7,italian,italy,0,0,0
+italian8,italian,italy,0,0,0
+italian9,italian,italy,0,0,0
+japanese1,japanese,japan,0,0,0
+japanese10,japanese,japan,0,0,0
+japanese11,japanese,japan,0,0,0
+japanese12,japanese,japan,0,0,0
+japanese13,japanese,japan,0,0,0
+japanese14,japanese,japan,0,0,0
+japanese15,japanese,japan,0,0,0
+japanese16,japanese,philippines,0,1,0
+japanese17,japanese,japan,0,0,0
+japanese18,japanese,japan,0,0,0
+japanese19,japanese,japan,0,0,0
+japanese2,japanese,japan,0,0,0
+japanese20,japanese,japan,0,1,0
+japanese21,japanese,japan,0,0,0
+japanese22,japanese,japan,0,0,0
+japanese23,japanese,japan,0,0,0
+japanese24,japanese,japan,0,0,0
+japanese25,japanese,japan,0,0,0
+japanese26,japanese,japan,0,0,0
+japanese27,japanese,japan,0,0,0
+japanese3,japanese,japan,0,0,0
+japanese4,japanese,japan,0,0,0
+japanese5,japanese,japan,0,0,0
+japanese6,japanese,japan,0,1,0
+japanese7,japanese,japan,0,0,0
+japanese8,japanese,japan,0,1,0
+japanese9,japanese,japan,0,0,0
+jola1,jola,senegal,0,0,0
+kabyle1,kabyle,algeria,0,0,0
+kalanga1,kalanga,botswana,0,0,0
+kambaata1,kambaata,ethiopia,0,0,0
+kambaata2,kambaata,ethiopia,0,0,0
+kambaata3,kambaata,ethiopia,0,0,0
+kannada1,kannada,india,0,0,0
+kanuri1,kanuri,nigeria,0,0,0
+kazakh1,kazakh,kazakhstan,0,0,0
+kazakh2,kazakh,kazakhstan,0,0,0
+kazakh3,kazakh,kazakhstan,0,0,0
+khmer1,khmer,cambodia,0,0,0
+khmer2,khmer,cambodia,0,0,0
+khmer3,khmer,cambodia,0,0,0
+khmer4,khmer,cambodia,0,0,0
+khmer5,khmer,cambodia,0,0,0
+khmer6,khmer,australia,0,1,0
+khmer7,khmer,cambodia,0,0,0
+kikongo1,kikongo,usa,0,0,0
+kikongo2,kikongo,angola,0,0,0
+kikuyu1,kikuyu,kenya,0,0,0
+kikuyu2,kikuyu,kenya,0,0,0
+kikuyu3,kikuyu,kenya,0,0,0
+kikuyu4,kikuyu,kenya,0,0,0
+kirghiz1,kirghiz,kyrgyzstan,0,0,0
+kiswahili1,kiswahili,tanzania,0,0,0
+kiswahili2,kiswahili,tanzania,0,0,0
+kiswahili3,kiswahili,kenya,0,0,0
+kiswahili4,kiswahili,democratic republic of congo,0,0,0
+kiswahili5,kiswahili,tanzania,0,0,0
+kiswahili6,kiswahili,tanzania,0,0,0
+kiswahili7,kiswahili,tanzania,0,0,0
+kiswahili8,kiswahili,kenya,0,0,0
+kiswahili9,kiswahili,tanzania,0,0,0
+konkani1,konkani,india,0,0,0
+korean1,korean,south korea,0,0,0
+korean10,korean,south korea,0,0,0
+korean11,korean,south korea,0,0,0
+korean12,korean,south korea,0,0,0
+korean13,korean,south korea,0,0,0
+korean14,korean,malaysia,0,1,0
+korean15,korean,south korea,0,0,0
+korean16,korean,south korea,0,0,0
+korean17,korean,south korea,0,0,0
+korean18,korean,south korea,0,0,0
+korean19,korean,south korea,0,0,0
+korean2,korean,south korea,0,0,0
+korean20,korean,south korea,0,0,0
+korean21,korean,south korea,0,0,0
+korean22,korean,south korea,0,1,0
+korean23,korean,south korea,0,0,0
+korean24,korean,south korea,0,0,0
+korean25,korean,south korea,0,0,0
+korean26,korean,south korea,0,0,0
+korean27,korean,south korea,0,0,0
+korean28,korean,south korea,0,0,0
+korean29,korean,south korea,0,0,0
+korean3,korean,south korea,0,0,0
+korean30,korean,south korea,0,0,0
+korean31,korean,south korea,0,0,0
+korean32,korean,south korea,0,0,0
+korean33,korean,south korea,0,0,0
+korean34,korean,south korea,0,0,0
+korean35,korean,south korea,0,0,0
+korean36,korean,south korea,0,0,0
+korean37,korean,south korea,0,0,0
+korean38,korean,south korea,0,0,0
+korean39,korean,south korea,0,0,0
+korean4,korean,south korea,0,0,0
+korean40,korean,south korea,0,0,0
+korean41,korean,south korea,0,0,0
+korean42,korean,usa,0,0,0
+korean43,korean,south korea,0,0,0
+korean44,korean,south korea,0,0,0
+korean45,korean,south korea,0,0,0
+korean46,korean,south korea,0,0,0
+korean47,korean,south korea,0,0,0
+korean48,korean,south korea,0,0,0
+korean49,korean,south korea,0,0,0
+korean5,korean,south korea,0,0,0
+korean50,korean,south korea,0,0,0
+korean51,korean,south korea,0,0,0
+korean52,korean,south korea,0,0,0
+korean6,korean,south korea,0,0,0
+korean7,korean,south korea,0,1,0
+korean8,korean,south korea,0,0,0
+korean9,korean,south korea,0,0,0
+krio1,krio,sierra leone,0,0,0
+krio2,krio,sierra leone,0,0,0
+krio3,krio,sierra leone,0,0,0
+krio4,krio,sierra leone,0,0,0
+krio5,krio,sierra leone,0,0,0
+krio6,krio,sierra leone,0,0,0
+kru1,kru,liberia,0,0,0
+kurdish1,kurdish,iraq,0,0,0
+kurdish10,kurdish,iraq,0,0,0
+kurdish2,kurdish,iraq,0,0,0
+kurdish3,kurdish,iraq,0,0,0
+kurdish4,kurdish,iraq,0,0,0
+kurdish5,kurdish,iraq,0,0,0
+kurdish6,kurdish,iraq,0,0,0
+kurdish7,kurdish,iran,0,0,0
+kurdish8,kurdish,iraq,0,0,0
+kurdish9,kurdish,iraq,0,0,0
+lamaholot1,lamaholot,indonesia,0,0,0
+lamotrekese1,lamotrekese,federated states of micronesia,0,0,0
+lao1,lao,laos,0,0,0
+lao2,lao,,0,0,0
+lao3,lao,laos,0,0,0
+latvian1,latvian,latvia,0,0,0
+latvian2,latvian,latvia,0,0,0
+latvian3,latvian,latvia,0,1,0
+lingala1,lingala,democratic republic of congo,0,0,0
+lithuanian1,lithuanian,lithuania,0,0,0
+lithuanian2,lithuanian,lithuania,0,0,0
+lithuanian3,lithuanian,lithuania,0,0,0
+lithuanian4,lithuanian,lithuania,0,0,0
+lithuanian5,lithuanian,lithuania,0,0,0
+lithuanian6,lithuanian,lithuania,0,0,0
+luo1,luo,kenya,0,0,0
+luo2,luo,kenya,0,0,0
+luxembourgeois1,luxembourgeois,luxembourg,0,0,0
+macedonian1,macedonian,macedonia,0,0,0
+macedonian10,macedonian,macedonia,0,0,0
+macedonian11,macedonian,macedonia,0,0,0
+macedonian12,macedonian,macedonia,0,0,0
+macedonian13,macedonian,macedonia,0,0,0
+macedonian14,macedonian,macedonia,0,0,0
+macedonian15,macedonian,macedonia,0,0,0
+macedonian16,macedonian,macedonia,0,0,0
+macedonian17,macedonian,macedonia,0,0,0
+macedonian18,macedonian,macedonia,0,0,0
+macedonian19,macedonian,macedonia,0,0,0
+macedonian2,macedonian,macedonia,0,0,0
+macedonian20,macedonian,macedonia,0,0,0
+macedonian21,macedonian,macedonia,0,0,0
+macedonian22,macedonian,macedonia,0,0,0
+macedonian23,macedonian,macedonia,0,0,0
+macedonian24,macedonian,macedonia,0,0,0
+macedonian25,macedonian,macedonia,0,0,0
+macedonian26,macedonian,macedonia,0,0,0
+macedonian3,macedonian,macedonia,0,0,0
+macedonian4,macedonian,macedonia,0,0,0
+macedonian5,macedonian,macedonia,0,0,0
+macedonian6,macedonian,macedonia,0,0,0
+macedonian7,macedonian,macedonia,0,0,0
+macedonian8,macedonian,macedonia,0,0,0
+macedonian9,macedonian,macedonia,0,0,0
+malagasy1,malagasy,madagascar,0,0,0
+malay1,malay,malaysia,0,0,0
+malay2,malay,malaysia,0,0,0
+malay3,malay,malaysia,0,0,0
+malay4,malay,malaysia,0,0,0
+malay5,malay,malaysia,0,0,0
+malayalam1,malayalam,india,0,0,0
+malayalam2,malayalam,india,0,0,0
+malayalam3,malayalam,india,0,1,0
+malayalam4,malayalam,united arab emirates,0,0,0
+maltese1,maltese,malta,0,0,0
+maltese2,maltese,malta,0,0,0
+mandarin1,mandarin,china,0,0,0
+mandarin10,mandarin,china,0,0,0
+mandarin11,mandarin,taiwan,0,0,0
+mandarin12,mandarin,singapore,0,1,0
+mandarin13,mandarin,taiwan,0,0,0
+mandarin14,mandarin,china,0,0,0
+mandarin15,mandarin,taiwan,0,0,0
+mandarin16,mandarin,taiwan,0,0,0
+mandarin17,mandarin,china,0,0,0
+mandarin18,mandarin,taiwan,0,0,0
+mandarin19,mandarin,china,0,0,0
+mandarin2,mandarin,china,0,0,0
+mandarin20,mandarin,taiwan,0,0,0
+mandarin21,mandarin,china,0,0,0
+mandarin22,mandarin,china,0,0,0
+mandarin23,mandarin,taiwan,0,0,0
+mandarin24,mandarin,china,0,0,0
+mandarin25,mandarin,china,0,0,0
+mandarin26,mandarin,china,0,0,0
+mandarin27,mandarin,china,0,0,0
+mandarin28,mandarin,china,0,0,0
+mandarin29,mandarin,china,0,0,0
+mandarin3,mandarin,china,0,0,0
+mandarin30,mandarin,taiwan,0,0,0
+mandarin31,mandarin,china,0,0,0
+mandarin32,mandarin,taiwan,0,0,0
+mandarin33,mandarin,china,0,1,0
+mandarin34,mandarin,china,0,0,0
+mandarin35,mandarin,china,0,0,0
+mandarin36,mandarin,china,0,0,0
+mandarin37,mandarin,china,0,0,0
+mandarin38,mandarin,china,0,0,0
+mandarin39,mandarin,china,0,0,0
+mandarin4,mandarin,china,0,0,0
+mandarin40,mandarin,china,0,0,0
+mandarin41,mandarin,china,0,0,0
+mandarin42,mandarin,china,0,0,0
+mandarin43,mandarin,china,0,0,0
+mandarin44,mandarin,china,0,0,0
+mandarin45,mandarin,china,0,0,0
+mandarin46,mandarin,china,0,0,0
+mandarin47,mandarin,china,0,0,0
+mandarin48,mandarin,china,0,0,0
+mandarin49,mandarin,china,0,0,0
+mandarin5,mandarin,china,0,0,0
+mandarin50,mandarin,taiwan,0,0,0
+mandarin51,mandarin,china,0,0,0
+mandarin52,mandarin,china,0,0,0
+mandarin53,mandarin,china,0,0,0
+mandarin54,mandarin,china,0,0,0
+mandarin55,mandarin,china,0,0,0
+mandarin56,mandarin,china,0,0,0
+mandarin57,mandarin,china,0,0,0
+mandarin58,mandarin,usa,0,0,0
+mandarin59,mandarin,china,0,0,0
+mandarin6,mandarin,china,0,0,0
+mandarin60,mandarin,china,0,0,0
+mandarin61,mandarin,china,0,0,0
+mandarin62,mandarin,china,0,1,0
+mandarin63,mandarin,china,0,0,0
+mandarin64,mandarin,china,0,0,0
+mandarin65,mandarin,china,0,0,0
+mandarin7,mandarin,usa,0,1,0
+mandarin8,mandarin,china,0,0,0
+mandarin9,mandarin,china,0,0,0
+mandingo1,mandingo,sierra leone,0,0,0
+mandinka1,mandinka,senegal,0,0,0
+mankanya1,mankanya,senegal,0,0,0
+marathi1,marathi,india,0,0,0
+marathi2,marathi,india,0,0,0
+marathi3,marathi,india,0,1,0
+mauritian1,mauritian,mauritius,0,0,0
+mauritian2,mauritian,mauritius,0,0,0
+mende1,mende,liberia,0,0,0
+mende2,mende,sierra leone,0,0,0
+mende3,mende,sierra leone,0,0,0
+miskito1,miskito,nicaragua,0,0,0
+miskito10,miskito,nicaragua,0,0,0
+miskito11,miskito,nicaragua,0,0,0
+miskito2,miskito,nicaragua,0,0,0
+miskito3,miskito,nicaragua,0,0,0
+miskito4,miskito,nicaragua,0,0,0
+miskito5,miskito,nicaragua,0,0,0
+miskito6,miskito,nicaragua,0,0,0
+miskito7,miskito,nicaragua,0,0,0
+miskito8,miskito,nicaragua,0,0,0
+miskito9,miskito,nicaragua,0,0,0
+mizo1,mizo,myanmar,0,0,0
+moba1,moba,togo,0,0,0
+mongolian1,mongolian,mongolia,0,0,0
+mongolian2,mongolian,mongolia,0,0,0
+mongolian3,mongolian,mongolia,0,0,0
+mongolian4,mongolian,mongolia,0,0,0
+mongolian5,mongolian,bulgaria,0,0,0
+mongolian6,mongolian,mongolia,0,0,0
+mongolian7,mongolian,mongolia,0,0,0
+mongolian8,mongolian,china,0,0,0
+mongolian9,mongolian,russia,0,1,0
+moore1,moore,burkina faso,0,0,0
+mortlockese1,mortlockese,federated states of micronesia,0,0,0
+nama1,nama,namibia,0,0,0
+nandi1,nandi,kenya,0,0,0
+naxi1,naxi,china,0,0,0
+nepali1,nepali,nepal,0,0,0
+nepali10,nepali,nepal,0,0,0
+nepali11,nepali,nepal,0,0,0
+nepali12,nepali,nepal,0,0,0
+nepali13,nepali,nepal,0,0,0
+nepali2,nepali,nepal,0,0,0
+nepali3,nepali,nepal,0,0,0
+nepali4,nepali,nepal,0,0,0
+nepali5,nepali,nepal,0,0,0
+nepali6,nepali,nepal,0,0,0
+nepali7,nepali,nepal,0,0,0
+nepali8,nepali,nepal,0,0,0
+nepali9,nepali,nepal,0,0,0
+newari1,newari,nepal,0,0,0
+ngemba1,ngemba,cameroon,0,0,0
+ngemba2,ngemba,cameroon,0,0,0
+norwegian1,norwegian,norway,0,0,0
+norwegian2,norwegian,norway,0,1,0
+norwegian3,norwegian,norway,0,1,0
+norwegian4,norwegian,norway,0,1,0
+norwegian5,norwegian,norway,0,0,0
+norwegian6,norwegian,norway,0,1,0
+nuer1,nuer,sudan,0,0,0
+oriya1,oriya,india,0,0,0
+oriya2,oriya,india,0,0,0
+oromo1,oromo,ethiopia,0,0,0
+oromo2,oromo,ethiopia,0,0,0
+oromo3,oromo,ethiopia,0,0,0
+papiamentu1,papiamentu,curacao,0,0,0
+papiamentu2,papiamentu,curacao,0,1,0
+pashto1,pashto,afghanistan,0,0,0
+pashto10,pashto,pakistan,0,0,0
+pashto2,pashto,afghanistan,0,0,0
+pashto3,pashto,afghanistan,0,0,0
+pashto4,pashto,pakistan,0,1,0
+pashto5,pashto,afghanistan,0,0,0
+pashto6,pashto,afghanistan,0,0,0
+pashto7,pashto,afghanistan,0,0,0
+pashto8,pashto,afghanistan,0,0,0
+pashto9,pashto,afghanistan,0,0,0
+pohnpeian1,pohnpeian,federated states of micronesia,0,0,0
+polish1,polish,poland,0,0,0
+polish10,polish,poland,0,0,0
+polish11,polish,poland,0,0,0
+polish12,polish,poland,0,0,0
+polish13,polish,poland,0,0,0
+polish14,polish,poland,0,0,0
+polish15,polish,poland,0,0,0
+polish16,polish,poland,0,0,0
+polish17,polish,poland,0,0,0
+polish18,polish,poland,0,0,0
+polish19,polish,poland,0,0,0
+polish2,polish,poland,0,0,0
+polish20,polish,poland,0,0,0
+polish21,polish,poland,0,0,0
+polish22,polish,poland,0,0,0
+polish23,polish,poland,0,0,0
+polish24,polish,poland,0,0,0
+polish25,polish,poland,0,1,0
+polish26,polish,poland,0,0,0
+polish27,polish,poland,0,0,0
+polish28,polish,poland,0,0,0
+polish29,polish,poland,0,0,0
+polish3,polish,poland,0,0,0
+polish30,polish,poland,0,0,0
+polish31,polish,poland,0,1,0
+polish32,polish,poland,0,1,0
+polish33,polish,poland,0,0,0
+polish34,polish,poland,0,0,0
+polish4,polish,poland,0,0,0
+polish5,polish,poland,0,0,0
+polish6,polish,poland,0,0,0
+polish7,polish,poland,0,0,0
+polish8,polish,poland,0,0,0
+polish9,polish,poland,0,0,0
+portuguese1,portuguese,brazil,0,0,0
+portuguese10,portuguese,brazil,0,0,0
+portuguese11,portuguese,brazil,0,0,0
+portuguese12,portuguese,portugal,0,0,0
+portuguese13,portuguese,brazil,0,1,0
+portuguese14,portuguese,brazil,0,0,0
+portuguese15,portuguese,brazil,0,0,0
+portuguese16,portuguese,brazil,0,0,0
+portuguese17,portuguese,brazil,0,0,0
+portuguese18,portuguese,portugal,0,0,0
+portuguese19,portuguese,brazil,0,0,0
+portuguese2,portuguese,brazil,0,0,0
+portuguese20,portuguese,brazil,0,0,0
+portuguese21,portuguese,brazil,0,0,0
+portuguese22,portuguese,angola,0,0,0
+portuguese23,portuguese,brazil,0,0,0
+portuguese24,portuguese,brazil,0,1,0
+portuguese25,portuguese,brazil,0,0,0
+portuguese26,portuguese,brazil,0,0,0
+portuguese27,portuguese,brazil,0,0,0
+portuguese28,portuguese,brazil,0,0,0
+portuguese29,portuguese,brazil,0,0,0
+portuguese3,portuguese,brazil,0,0,0
+portuguese30,portuguese,brazil,0,0,0
+portuguese31,portuguese,brazil,0,0,0
+portuguese32,portuguese,brazil,0,0,0
+portuguese33,portuguese,brazil,0,0,0
+portuguese34,portuguese,brazil,0,0,0
+portuguese35,portuguese,brazil,0,0,0
+portuguese36,portuguese,brazil,0,0,0
+portuguese37,portuguese,brazil,0,0,0
+portuguese38,portuguese,brazil,0,0,0
+portuguese39,portuguese,brazil,0,1,0
+portuguese4,portuguese,angola,0,0,0
+portuguese40,portuguese,uk,0,0,0
+portuguese41,portuguese,mexico,0,1,0
+portuguese42,portuguese,angola,0,0,0
+portuguese43,portuguese,brazil,0,0,0
+portuguese44,portuguese,brazil,0,0,0
+portuguese45,portuguese,brazil,0,0,0
+portuguese46,portuguese,portugal,0,0,0
+portuguese47,portuguese,brazil,0,0,0
+portuguese48,portuguese,brazil,0,0,0
+portuguese5,portuguese,angola,0,0,0
+portuguese6,portuguese,brazil,0,0,0
+portuguese7,portuguese,brazil,0,0,0
+portuguese8,portuguese,brazil,0,0,0
+portuguese9,portuguese,brazil,0,1,0
+pulaar1,pulaar,senegal,0,0,0
+pulaar2,pulaar,senegal,0,0,0
+pulaar3,pulaar,senegal,0,0,0
+punjabi1,punjabi,pakistan,0,0,0
+punjabi10,punjabi,india,0,0,0
+punjabi2,punjabi,india,0,0,0
+punjabi3,punjabi,india,0,0,0
+punjabi4,punjabi,india,0,0,0
+punjabi5,punjabi,india,0,0,0
+punjabi6,punjabi,pakistan,0,0,0
+punjabi7,punjabi,pakistan,0,0,0
+punjabi8,punjabi,india,0,0,0
+punjabi9,punjabi,india,0,0,0
+quechua1,quechua,bolivia,0,0,0
+quechua2,quechua,peru,0,0,0
+romanian1,romanian,romania,0,0,0
+romanian10,romanian,romania,0,0,0
+romanian11,romanian,romania,0,0,0
+romanian12,romanian,moldova,0,0,0
+romanian13,romanian,romanian,0,0,0
+romanian14,romanian,moldova,0,0,0
+romanian15,romanian,romania,0,0,0
+romanian16,romanian,romania,0,0,0
+romanian17,romanian,moldova,0,0,0
+romanian18,romanian,ukraine,0,0,0
+romanian19,romanian,moldova,0,0,0
+romanian2,romanian,romania,0,0,0
+romanian20,romanian,romania,0,0,0
+romanian3,romanian,romania,0,0,0
+romanian4,romanian,romania,0,0,0
+romanian5,romanian,romania,0,0,0
+romanian6,romanian,romania,0,0,0
+romanian7,romanian,romania,0,0,0
+romanian8,romanian,romania,0,0,0
+romanian9,romanian,romania,0,0,0
+rotuman1,rotuman,fiji,0,0,0
+rotuman2,rotuman,fiji,0,0,0
+rundi1,rundi,burundi,0,0,0
+russian1,russian,russia,0,0,0
+russian10,russian,russia,0,0,0
+russian11,russian,russia,0,0,0
+russian12,russian,russia,0,0,0
+russian13,russian,russia,0,0,0
+russian14,russian,russia,0,0,0
+russian15,russian,kazakhstan,0,0,0
+russian16,russian,belarus,0,0,0
+russian17,russian,russia,0,0,0
+russian18,russian,russia,0,0,0
+russian19,russian,kazakhstan,0,0,0
+russian2,russian,ukraine,0,0,0
+russian20,russian,kazakhstan,0,0,0
+russian21,russian,russia,0,0,0
+russian22,russian,latvia,0,1,0
+russian23,russian,ukraine,0,0,0
+russian24,russian,russia,0,0,0
+russian25,russian,moldova,0,0,0
+russian26,russian,moldova,0,0,0
+russian27,russian,russia,0,0,0
+russian28,russian,belarus,0,1,0
+russian29,russian,moldova,0,0,0
+russian3,russian,ukraine,0,0,0
+russian30,russian,russia,0,0,0
+russian31,russian,estonia,0,0,0
+russian32,russian,ukraine,0,0,0
+russian33,russian,kazakhstan,0,0,0
+russian34,russian,russia,0,0,0
+russian35,russian,germany,0,0,0
+russian36,russian,russia,0,0,0
+russian37,russian,russia,0,0,0
+russian38,russian,belarus,0,0,0
+russian39,russian,usa,0,1,0
+russian4,russian,russia,0,0,0
+russian40,russian,kyrgyzstan,0,0,0
+russian41,russian,russia,0,0,0
+russian42,russian,russia,0,1,0
+russian43,russian,russia,0,0,0
+russian44,russian,russia,0,1,0
+russian45,russian,russia,0,0,0
+russian46,russian,russia,0,0,0
+russian47,russian,russia,0,0,0
+russian48,russian,uzbekistan,0,0,0
+russian5,russian,russia,0,0,0
+russian6,russian,russia,0,0,0
+russian7,russian,ukraine,0,0,0
+russian8,russian,russia,0,0,0
+russian9,russian,russia,0,0,0
+rwanda1,rwanda,rwanda,0,0,0
+sa'a1,sa'a,solomon islands,0,0,0
+sardinian1,sardinian,switzerland,0,0,0
+sarua1,sarua,chad,0,0,0
+satawalese1,satawalese,federated states of micronesia,0,0,0
+satawalese2,satawalese,federated states of micronesia,0,0,0
+serbian1,serbian,bosnia,0,0,0
+serbian10,serbian,serbia,0,0,0
+serbian11,serbian,serbia,0,1,0
+serbian12,serbian,serbia,0,0,0
+serbian13,serbian,bosnia and herzegovina,0,0,0
+serbian14,serbian,montenegro,0,0,0
+serbian15,serbian,bosnia and herzegovina,0,0,0
+serbian16,serbian,serbia,0,1,0
+serbian17,serbian,serbia,0,0,0
+serbian18,serbian,serbia,0,1,0
+serbian2,serbian,yugoslavia,0,0,0
+serbian3,serbian,serbia,0,1,0
+serbian4,serbian,serbia,0,0,0
+serbian5,serbian,serbia,0,0,0
+serbian6,serbian,serbia,0,0,0
+serbian7,serbian,serbia,0,0,0
+serbian8,serbian,serbia,0,0,0
+serbian9,serbian,serbia,0,0,0
+serer1,serer,senegal,0,0,0
+sesotho1,sesotho,lesotho,0,0,0
+shan1,shan,myanmar,0,0,0
+shilluk1,shilluk,sudan,0,0,0
+shona1,shona,zimbabwe,0,1,0
+shona2,shona,zimbabwe,0,1,0
+sicilian1,sicilian,sicily,0,0,0
+sindhi1,sindhi,pakistan,0,0,0
+sinhala6,sinhala,sri lanka,0,0,0
+slovak1,slovak,slovak republic,0,0,0
+slovak2,slovak,slovak republic,0,0,0
+slovak3,slovak,slovak republic,0,0,0
+slovak4,slovak,slovakia,0,0,0
+slovak5,slovak,slovakia,0,0,0
+slovenian1,slovenian,slovenia,0,1,0
+slovenian2,slovenian,slovenia,0,0,0
+somali1,somali,somalia,0,0,0
+somali2,somali,somalia,0,0,0
+somali3,somali,somalia,0,0,0
+somali4,somali,somalia,0,1,0
+somali5,somali,somalia,0,0,0
+somali6,somali,somalia,0,0,0
+spanish1,spanish,venezuela,0,0,0
+spanish10,spanish,el salvador,0,0,0
+spanish100,spanish,peru,0,0,0
+spanish101,spanish,el salvador,0,0,0
+spanish102,spanish,bolivia,0,0,0
+spanish103,spanish,el salvador,0,0,0
+spanish104,spanish,el salvador,0,0,0
+spanish105,spanish,spain,0,0,0
+spanish106,spanish,peru,0,0,0
+spanish107,spanish,el salvador,0,0,0
+spanish108,spanish,colombia,0,0,0
+spanish109,spanish,venezuela,0,0,0
+spanish11,spanish,peru,0,0,0
+spanish110,spanish,venezuela,0,0,0
+spanish111,spanish,chile,0,0,0
+spanish112,spanish,bolivia,0,0,0
+spanish113,spanish,bolivia,0,0,0
+spanish114,spanish,spain,0,0,0
+spanish115,spanish,bolivia,0,0,0
+spanish116,spanish,colombia,0,0,0
+spanish117,spanish,spain,0,1,0
+spanish118,spanish,mexico,0,0,0
+spanish119,spanish,spain,0,0,0
+spanish12,spanish,spain,0,0,0
+spanish120,spanish,colombia,0,1,0
+spanish121,spanish,el salvador,0,0,0
+spanish122,spanish,mexico,0,1,0
+spanish123,spanish,colombia,0,0,0
+spanish124,spanish,bolivia,0,0,0
+spanish125,spanish,peru,0,0,0
+spanish126,spanish,panama,0,0,0
+spanish127,spanish,el salvador,0,0,0
+spanish128,spanish,peru,0,0,0
+spanish129,spanish,cuba,0,0,0
+spanish13,spanish,colombia,0,0,0
+spanish130,spanish,ecuador,0,0,0
+spanish131,spanish,cuba,0,0,0
+spanish132,spanish,puerto rico,0,0,0
+spanish133,spanish,bolivia,0,0,0
+spanish134,spanish,el salvador,0,0,0
+spanish135,spanish,cuba,0,0,0
+spanish136,spanish,chile,0,0,0
+spanish137,spanish,el salvador,0,0,0
+spanish138,spanish,el salvador,0,0,0
+spanish139,spanish,guatemala,0,0,0
+spanish14,spanish,colombia,0,0,0
+spanish140,spanish,bolivia,0,0,0
+spanish141,spanish,el salvador,0,0,0
+spanish142,spanish,el salvador,0,0,0
+spanish143,spanish,spain,0,0,0
+spanish144,spanish,mexico,0,0,0
+spanish145,spanish,mexico,0,0,0
+spanish146,spanish,mexico,0,0,0
+spanish147,spanish,nicaragua,0,0,0
+spanish148,spanish,honduras,0,0,0
+spanish149,spanish,nicaragua,0,0,0
+spanish15,spanish,puerto rico,0,0,0
+spanish150,spanish,nicaragua,0,0,0
+spanish151,spanish,nicaragua,0,0,0
+spanish152,spanish,spain,0,0,0
+spanish153,spanish,colombia,0,0,0
+spanish154,spanish,uruguay,0,0,0
+spanish155,spanish,peru,0,0,0
+spanish156,spanish,uruguay,0,1,0
+spanish157,spanish,mexico,0,1,0
+spanish158,spanish,puerto rico,0,0,0
+spanish159,spanish,el salvador,0,0,0
+spanish16,spanish,argentina,0,0,0
+spanish160,spanish,colombia,0,1,0
+spanish161,spanish,nicaragua,0,0,0
+spanish162,spanish,mexico,0,1,0
+spanish17,spanish,mexico,0,0,0
+spanish18,spanish,bolivia,0,0,0
+spanish19,spanish,cuba,0,0,0
+spanish2,spanish,venezuela,0,0,0
+spanish20,spanish,nicaragua,0,0,0
+spanish21,spanish,chile,0,0,0
+spanish22,spanish,spain,0,0,0
+spanish23,spanish,chile,0,1,0
+spanish24,spanish,mexico,0,0,0
+spanish25,spanish,costa rica,0,0,0
+spanish26,spanish,spain,0,0,0
+spanish27,spanish,spain,0,0,0
+spanish28,spanish,el salvador,0,0,0
+spanish29,spanish,venezuela,0,0,0
+spanish3,spanish,colombia,0,0,0
+spanish30,spanish,argentina,0,0,0
+spanish31,spanish,ecuador,0,0,0
+spanish32,spanish,bolivia,0,0,0
+spanish33,spanish,venezuela,0,0,0
+spanish34,spanish,spain,0,0,0
+spanish35,spanish,mexico,0,0,0
+spanish36,spanish,uruguay,0,0,0
+spanish37,spanish,honduras,0,0,0
+spanish38,spanish,honduras,0,0,0
+spanish39,spanish,spain,0,0,0
+spanish4,spanish,el salvador,0,0,0
+spanish40,spanish,costa rica,0,0,0
+spanish41,spanish,dominican republic,0,1,0
+spanish42,spanish,colombia,0,0,0
+spanish43,spanish,dominican republic,0,0,0
+spanish44,spanish,dominican republic,0,0,0
+spanish45,spanish,dominican republic,0,0,0
+spanish46,spanish,dominican republic,0,0,0
+spanish47,spanish,dominican republic,0,0,0
+spanish48,spanish,spain,0,0,0
+spanish49,spanish,argentina,0,0,0
+spanish5,spanish,colombia,0,1,0
+spanish50,spanish,dominican republic,0,0,0
+spanish51,spanish,puerto rico,0,0,0
+spanish52,spanish,colombia,0,0,0
+spanish53,spanish,colombia,0,0,0
+spanish54,spanish,chile,0,0,0
+spanish55,spanish,argentina,0,0,0
+spanish56,spanish,mexico,0,1,0
+spanish57,spanish,uruguay,0,0,0
+spanish58,spanish,colombia,0,0,0
+spanish59,spanish,puerto rico,0,1,0
+spanish6,spanish,peru,0,0,0
+spanish60,spanish,dominican republic,0,0,0
+spanish61,spanish,spain,0,0,0
+spanish62,spanish,argentina,0,0,0
+spanish63,spanish,spain,0,0,0
+spanish64,spanish,colombia,0,0,0
+spanish65,spanish,colombia,0,0,0
+spanish66,spanish,el salvador,0,1,0
+spanish67,spanish,colombia,0,0,0
+spanish68,spanish,chile,0,1,0
+spanish69,spanish,venezuela,0,1,0
+spanish7,spanish,colombia,0,0,0
+spanish70,spanish,colombia,0,0,0
+spanish71,spanish,argentina,0,1,0
+spanish72,spanish,usa,0,1,0
+spanish73,spanish,venezuela,0,0,0
+spanish74,spanish,spain,0,0,0
+spanish75,spanish,peru,0,0,0
+spanish76,spanish,bolivia,0,1,0
+spanish77,spanish,mexico,0,0,0
+spanish78,spanish,peru,0,0,0
+spanish79,spanish,peru,0,0,0
+spanish8,spanish,el salvador,0,0,0
+spanish80,spanish,colombia,0,0,0
+spanish81,spanish,puerto rico,0,0,0
+spanish82,spanish,bolivia,0,0,0
+spanish83,spanish,bolivia,0,0,0
+spanish84,spanish,argentina,0,0,0
+spanish85,spanish,argentina,0,0,0
+spanish86,spanish,argentina,0,0,0
+spanish87,spanish,bolivia,0,0,0
+spanish88,spanish,bolivia,0,0,0
+spanish89,spanish,mexico,0,0,0
+spanish9,spanish,venezuela,0,0,0
+spanish90,spanish,venezuela,0,0,0
+spanish91,spanish,venezuela,0,1,0
+spanish92,spanish,cuba,0,0,0
+spanish93,spanish,honduras,0,1,0
+spanish94,spanish,colombia,0,1,0
+spanish95,spanish,mexico,0,0,0
+spanish96,spanish,peru,0,0,0
+spanish97,spanish,colombia,0,0,0
+spanish98,spanish,mexico,0,0,0
+spanish99,spanish,peru,0,0,0
+sundanese1,sundanese,indonesia,0,0,0
+susu1,susu,guinea,0,0,0
+swedish1,swedish,sweden,0,0,0
+swedish10,swedish,sweden,0,1,0
+swedish11,swedish,finland,0,1,0
+swedish12,swedish,sweden,0,1,0
+swedish13,swedish,sweden,0,0,0
+swedish14,swedish,sweden,0,0,0
+swedish15,swedish,sweden,0,0,0
+swedish16,swedish,sweden,0,1,0
+swedish17,swedish,sweden,0,0,0
+swedish18,swedish,sweden,0,1,0
+swedish19,swedish,finland,0,0,0
+swedish2,swedish,sweden,0,1,0
+swedish20,swedish,sweden,0,0,0
+swedish3,swedish,sweden,0,0,0
+swedish4,swedish,sweden,0,0,0
+swedish5,swedish,sweden,0,0,0
+swedish6,swedish,sweden,0,0,0
+swedish7,swedish,sweden,0,0,0
+swedish8,swedish,finland,0,1,0
+swedish9,swedish,sweden,0,0,0
+sylheti1,sylheti,bangladesh,0,0,0
+synthesized1,synthesized,,0,0,0
+synthesized2,synthesized,,0,0,0
+synthesized3,synthesized,,0,0,0
+synthesized4,synthesized,,0,0,0
+tagalog1,tagalog,philippines,0,0,0
+tagalog10,tagalog,philippines,0,0,0
+tagalog11,tagalog,philippines,0,0,0
+tagalog12,tagalog,philippines,0,0,0
+tagalog13,tagalog,philippines,0,0,0
+tagalog14,tagalog,philippines,0,0,0
+tagalog15,tagalog,philippines,0,0,0
+tagalog16,tagalog,philippines,0,0,0
+tagalog17,tagalog,usa,0,1,0
+tagalog18,tagalog,philippines,0,0,0
+tagalog2,tagalog,philippines,0,0,0
+tagalog3,tagalog,solomon islands,0,1,0
+tagalog4,tagalog,philippines,0,0,0
+tagalog5,tagalog,philippines,0,0,0
+tagalog6,tagalog,philippines,0,1,0
+tagalog7,tagalog,philippines,0,0,0
+tagalog8,tagalog,philippines,0,0,0
+tagalog9,tagalog,philippines,0,0,0
+taishan1,taishan,china,0,0,0
+taiwanese1,taiwanese,taiwan,0,0,0
+taiwanese2,taiwanese,taiwan,0,0,0
+taiwanese3,taiwanese,taiwan,0,0,0
+taiwanese4,taiwanese,taiwan,0,0,0
+taiwanese5,taiwanese,taiwan,0,0,0
+taiwanese6,taiwanese,taiwan,0,0,0
+taiwanese7,taiwanese,taiwan,0,0,0
+taiwanese8,taiwanese,taiwan,0,0,0
+tajiki1,tajiki,tajikistan,0,0,0
+tajiki2,tajiki,tajikistan,0,0,0
+tajiki3,tajiki,tajikistan,0,0,0
+tamil1,tamil,sri lanka,0,0,0
+tamil2,tamil,india,0,0,0
+tamil3,tamil,india,0,0,0
+tamil4,tamil,sri lanka,0,0,0
+tamil5,tamil,india,0,0,0
+tamil6,tamil,india,0,0,0
+tatar1,tatar,russia,0,0,0
+telugu1,telugu,india,0,0,0
+telugu2,telugu,india,0,0,0
+temne1,temne,sierra leone,0,0,0
+teochew1,teochew,china,0,0,0
+thai1,thai,thailand,0,0,0
+thai10,thai,thailand,0,0,0
+thai11,thai,thailand,0,0,0
+thai12,thai,thailand,0,0,0
+thai13,thai,thailand,0,0,0
+thai14,thai,thailand,0,0,0
+thai15,thai,thailand,0,0,0
+thai2,thai,thailand,0,0,0
+thai3,thai,thailand,0,0,0
+thai4,thai,thailand,0,0,0
+thai5,thai,thailand,0,0,0
+thai6,thai,thailand,0,0,0
+thai7,thai,thailand,0,0,0
+thai8,thai,thailand,0,0,0
+thai9,thai,thailand,0,0,0
+tibetan1,tibetan,tibet,0,0,0
+tibetan2,tibetan,tibet,0,0,0
+tibetan3,tibetan,india,0,0,0
+tigrigna1,tigrigna,ethiopia,0,0,0
+tigrigna2,tigrigna,eritrea,0,0,0
+tigrigna3,tigrigna,eritrea,0,0,0
+tigrigna4,tigrigna,eritrea,0,0,0
+tigrigna5,tigrigna,eritrea,0,0,0
+tigrigna6,tigrigna,ethiopia,0,0,0
+tigrigna7,tigrigna,eritrea,0,0,0
+tigrigna8,tigrigna,eritrea,0,0,0
+tswana1,tswana,botswana,0,0,0
+tswana2,tswana,botswana,0,0,0
+turkish1,turkish,turkey,0,0,0
+turkish10,turkish,turkey,0,0,0
+turkish11,turkish,turkey,0,0,0
+turkish12,turkish,turkey,0,0,0
+turkish13,turkish,turkey,0,1,0
+turkish14,turkish,turkey,0,0,0
+turkish15,turkish,turkey,0,0,0
+turkish16,turkish,turkey,0,0,0
+turkish17,turkish,turkey,0,0,0
+turkish18,turkish,germany,0,0,0
+turkish19,turkish,turkey,0,0,0
+turkish2,turkish,turkey,0,0,0
+turkish20,turkish,turkey,0,0,0
+turkish21,turkish,turkey,0,1,0
+turkish22,turkish,turkey,0,0,0
+turkish23,turkish,turkey,0,0,0
+turkish24,turkish,turkey,0,0,0
+turkish25,turkish,turkey,0,0,0
+turkish26,turkish,turkey,0,0,0
+turkish27,turkish,turkey,0,0,0
+turkish28,turkish,turkey,0,1,0
+turkish29,turkish,turkey,0,1,0
+turkish3,turkish,turkey,0,0,0
+turkish30,turkish,turkey,0,0,0
+turkish31,turkish,turkey,0,0,0
+turkish32,turkish,turkey,0,0,0
+turkish33,turkish,turkey,0,0,0
+turkish34,turkish,turkey,0,0,0
+turkish35,turkish,turkey,0,0,0
+turkish36,turkish,turkey,0,0,0
+turkish37,turkish,tajikistan,0,0,0
+turkish4,turkish,turkey,0,0,0
+turkish5,turkish,turkey,0,0,0
+turkish6,turkish,turkey,0,0,0
+turkish7,turkish,turkey,0,0,0
+turkish8,turkish,turkey,0,0,0
+turkish9,turkish,turkey,0,0,0
+turkmen1,turkmen,turkmenistan,0,0,0
+twi1,twi,ghana,0,0,0
+twi2,twi,ghana,0,0,0
+twi4,twi,ghana,0,0,0
+twi5,twi,usa,0,1,0
+twi6,twi,ghana,0,0,0
+ukrainian1,ukrainian,ukraine,0,0,0
+ukrainian10,ukrainian,ukraine,0,0,0
+ukrainian11,ukrainian,ukraine,0,0,0
+ukrainian2,ukrainian,ukraine,0,0,0
+ukrainian3,ukrainian,ukraine,0,0,0
+ukrainian4,ukrainian,ukraine,0,0,0
+ukrainian5,ukrainian,ukraine,0,0,0
+ukrainian6,ukrainian,ukraine,0,0,0
+ukrainian7,ukrainian,ukraine,0,0,0
+ukrainian8,ukrainian,ukraine,0,0,0
+ukrainian9,ukrainian,ukraine,0,0,0
+urdu1,urdu,pakistan,0,0,0
+urdu10,urdu,pakistan,0,0,0
+urdu11,urdu,pakistan,0,1,0
+urdu12,urdu,pakistan,0,0,0
+urdu13,urdu,pakistan,0,1,0
+urdu14,urdu,pakistan,0,0,0
+urdu15,urdu,pakistan,0,0,0
+urdu16,urdu,pakistan,0,0,0
+urdu2,urdu,pakistan,0,0,0
+urdu3,urdu,pakistan,0,1,0
+urdu4,urdu,kuwait,0,0,0
+urdu5,urdu,pakistan,0,0,0
+urdu6,urdu,india,0,0,0
+urdu7,urdu,pakistan,0,0,0
+urdu8,urdu,united arab emirates,0,0,0
+urdu9,urdu,usa,0,0,0
+uyghur1,uyghur,china,0,0,0
+uyghur2,uyghur,china,0,0,0
+uyghur3,uyghur,china,0,0,0
+uzbek1,uzbek,uzbekistan,0,0,0
+uzbek2,uzbek,afghanistan,0,0,0
+uzbek3,uzbek,uzbekistan,0,0,0
+uzbek4,uzbek,uzbekistan,0,0,0
+vietnamese1,vietnamese,vietnam,0,0,0
+vietnamese10,vietnamese,vietnam,0,0,0
+vietnamese11,vietnamese,vietnam,0,0,0
+vietnamese12,vietnamese,vietnam,0,0,0
+vietnamese13,vietnamese,vietnam,0,0,0
+vietnamese14,vietnamese,vietnam,0,0,0
+vietnamese15,vietnamese,vietnam,0,0,0
+vietnamese16,vietnamese,vietnam,0,0,0
+vietnamese17,vietnamese,vietnam,0,0,0
+vietnamese18,vietnamese,vietnam,0,1,0
+vietnamese19,vietnamese,vietnam,0,0,0
+vietnamese2,vietnamese,vietnam,0,0,0
+vietnamese20,vietnamese,vietnam,0,0,0
+vietnamese21,vietnamese,vietnam,0,0,0
+vietnamese22,vietnamese,vietnam,0,0,0
+vietnamese3,vietnamese,vietnam,0,0,0
+vietnamese4,vietnamese,vietnam,0,0,0
+vietnamese5,vietnamese,vietnam,0,0,0
+vietnamese6,vietnamese,vietnam,0,0,0
+vietnamese7,vietnamese,vietnam,0,0,0
+vietnamese8,vietnamese,vietnam,0,0,0
+vietnamese9,vietnamese,vietnam,0,0,0
+vlaams1,vlaams,belgium,0,0,0
+vlaams2,vlaams,belgium,0,1,0
+vlaams3,vlaams,belgium,0,1,0
+vlaams4,vlaams,belgium,0,1,0
+wolof1,wolof,senegal,0,0,0
+wolof2,wolof,senegal,0,0,0
+wolof3,wolof,senegal,0,0,0
+wolof4,wolof,senegal,0,0,0
+wolof5,wolof,senegal,0,0,0
+wolof6,wolof,senegal,0,0,0
+wu1,wu,china,0,0,0
+xasonga1,xasonga,senegal,0,0,0
+xiang1,xiang,taiwan,0,0,0
+xiang2,xiang,china,0,0,0
+xiang3,xiang,china,0,0,0
+xiang4,xiang,china,0,0,0
+yakut1,yakut,russia,0,1,0
+yapese1,yapese,federated states of micronesia,0,0,0
+yiddish1,yiddish,france,0,0,0
+yiddish2,yiddish,canada,0,1,0
+yiddish3,yiddish,usa,0,1,0
+yiddish4,yiddish,austria,0,0,0
+yiddish5,yiddish,lithuania,0,0,0
+yoruba1,yoruba,benin,0,0,0
+yoruba2,yoruba,nigeria,0,0,0
+yoruba3,yoruba,nigeria,0,0,0
+yoruba4,yoruba,nigeria,0,0,0
+yoruba5,yoruba,nigeria,0,0,0
+yupik1,yupik,usa,0,0,0
+zulu1,zulu,zimbabwe,0,0,0
