@@ -1,6 +1,9 @@
 # Debias_ASR_Native_Reco
 The Impact of Native Speaker Recognition on Enhancing Automatic Speech Recognition
 
+Team Members: Mingda Li, Utkarsh Mujumdar, Hsuan-Wen (Peggy) Wang
+
+Advisor: Dr. Abhijit Mishra
 
 ## Introduction
 This repository is dedicated to our research on improving Automatic Speech Recognition (ASR) systems for handling different accents in English. Our work addresses the inherent bias in ASR systems towards non-native English speakers by exploring the impact of accents and developing methods to enhance speech recognition quality.
@@ -18,7 +21,7 @@ Our dataset is a collection of audio files from both native and non-native Engli
 - **ASR Fine-Tuning**: Models for fine-tuning ASR systems using a balanced dataset of native and non-native speakers.
 
 ## Usage
-Instructions for setting up the environment, training the models, and running the ASR tests are provided in the respective directories.
+Our code can run on Google Colab.
 
 ## Contributions
 - **Audio Database Creation**: We have compiled a unique audio database labeled for native and non-native English speakers.
